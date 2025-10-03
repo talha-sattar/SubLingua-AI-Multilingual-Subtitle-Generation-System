@@ -1,6 +1,5 @@
 # SubLingua-AI: Multilingual Subtitle Generation System  
-SubLingua-AI is an advanced subtitle generation system that supports **50+ languages** and is trained to recognize **non-verbal sounds** (e.g., laughter, applause, music).  
-It combines a **Flask-based backend** with a **JavaScript/TypeScript frontend** to provide an accessible, multilingual, and context-aware subtitle generation platform.  
+SubLingua-AI is a multilingual, context-aware subtitle generation system that supports **50+ languages** and detects **500+ non-verbal acoustic events** (e.g., laughter, applause, music cues, beeps, sirens). It features a **Flask** backend and a **JavaScript/TypeScript** frontend, with a pluggable ASR layer powered by **OpenAI**, **AssemblyAI**, or **Whisper**. SubLingua-AI delivers accurate, time-aligned captions and sound annotations in formats like **SRT** and **VTT**, designed for real-time workflows, batch processing, and API-first integration.
 
 ---
 ## 🎥 Demo Results
