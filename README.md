@@ -6,8 +6,8 @@ It combines a **Flask-based backend** with a **JavaScript/TypeScript frontend** 
 ## 🎥 Demo Results
 
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/…/results.mp4" width="48%" controls></video>
-  <video src="https://user-images.githubusercontent.com/…/web.mp4" width="48%" controls></video>
+  <img src="Results/Results.gif" width="48%"/>
+  <img src="Results/web.gif" width="48%"/>
 </p>
 
 
