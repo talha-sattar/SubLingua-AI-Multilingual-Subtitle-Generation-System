@@ -3,12 +3,15 @@ SubLingua-AI is an advanced subtitle generation system that supports **50+ langu
 It combines a **Flask-based backend** with a **JavaScript/TypeScript frontend** to provide an accessible, multilingual, and context-aware subtitle generation platform.  
 
 ---
-# 🎥 Demo Results
+## 🎥 Demo Results
 
 <p align="center">
-  <video src="Results/Results.mp4" width="48%" controls></video>
-  <video src="Results/web.mp4" width="48%" controls></video>
+  <img src="Results/Results.gif" width="48%" />
+  <img src="Results/web.gif" width="48%" />
 </p>
+
+<sub>Full MP4s: <a href="Results/Results.mp4">Results.mp4</a> • <a href="Results/web.mp4">web.mp4</a></sub>
+
 ---
 
 ## ⚙️ Features  
