@@ -6,10 +6,10 @@ It combines a **Flask-based backend** with a **JavaScript/TypeScript frontend** 
 ## 🎥 Demo Results
 
 <p align="center">
-  <a href="Results/Results.mp4">▶ Results.mp4</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Results/web.mp4">▶ web.mp4</a>
+  <video src="https://user-images.githubusercontent.com/…/results.mp4" width="48%" controls></video>
+  <video src="https://user-images.githubusercontent.com/…/web.mp4" width="48%" controls></video>
 </p>
+
 
 
 ---
