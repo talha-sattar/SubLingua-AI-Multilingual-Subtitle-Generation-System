@@ -6,8 +6,8 @@ It combines a **Flask-based backend** with a **JavaScript/TypeScript frontend** 
 ## 🎥 Demo Results
 
 <p align="center">
-  <img src="Results/Results.gif" width="48%"/>
   <img src="Results/web.gif" width="48%"/>
+  <img src="Results/Results.gif" width="48%"/>
 </p>
 
 
