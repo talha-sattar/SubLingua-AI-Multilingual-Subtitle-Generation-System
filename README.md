@@ -6,11 +6,11 @@ It combines a **Flask-based backend** with a **JavaScript/TypeScript frontend** 
 ## 🎥 Demo Results
 
 <p align="center">
-  <img src="Results/Results.gif" width="48%" />
-  <img src="Results/web.gif" width="48%" />
+  <a href="Results/Results.mp4">▶ Results.mp4</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="Results/web.mp4">▶ web.mp4</a>
 </p>
 
-<sub>Full MP4s: <a href="Results/Results.mp4">Results.mp4</a> • <a href="Results/web.mp4">web.mp4</a></sub>
 
 ---
 
